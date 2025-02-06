@@ -9895,7 +9895,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D10.0mm"
+		(property "Footprint" "LED_THT:LED_VCCLite_5381H5_6.35x6.35mm"
 			(at 311.15 81.28 0)
 			(effects
 				(font
